@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Swayam Verma.👋
 
 <!--
 **swayamverma412/swayamverma412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a software developer and a tech enthusiast actively involved in various organizations and projects. Here's a bit about me:
+- 🔭 I’m currently working on new projects related to javascripts and machine learning.
+- 🌱 I’m currently learning System Design.
+- 👯 I’m looking to collaborate on exciting projects that can make a positive impact.
+- 💬 Ask me about anything related to software development and technology.
+- 📫 How to reach me: [https://www.linkedin.com/in/swayam-verma-705a9a195/](Linkedin)
