@@ -55,7 +55,7 @@ I'm a Android developer and a tech enthusiast actively involved in various organ
   identify and classify brain tumors from MRI images. The system aims to assist healthcare professionals in early diagnosis 
   and treatment planning, enhancing patient care and outcomes.
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swayamverma412&show_icons=true&theme=gotham" alt="swayamverma412" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamverma412&hide_progress=true" alt="swayamverma412" />
 
 
 
