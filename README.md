@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software developer and a tech enthusiast actively involved in various organizations and projects. Here's a bit about me:
-- 🔭 I’m currently working on new projects related to javascripts and machine learning.
+I'm a Android developer and a tech enthusiast actively involved in various organizations and projects. Here's a bit about me:
+- 🔭 I’m currently working on new projects related to Android Development
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on exciting projects that can make a positive impact.
 - 💬 Ask me about anything related to software development and technology.
