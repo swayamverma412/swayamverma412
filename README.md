@@ -19,7 +19,7 @@ I'm a Android developer and a tech enthusiast actively involved in various organ
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on exciting projects that can make a positive impact.
 - 💬 Ask me about anything related to software development and technology.
-- 📫 How to reach me: [https://www.linkedin.com/in/swayam-verma-705a9a195/](Linkedin)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/swayam-verma-705a9a195/)
 ### Projects
 - [ALL_IN_ONE](https://github.com/swayamverma412/ALL_IN_ONE) :-
   This multi-vendor application provides a platform for customers to browse and purchase products from multiple vendors. It 
